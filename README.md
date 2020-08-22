@@ -1,1 +1,1 @@
-# grpc-practice
+# grpc code sippets (WIP)
